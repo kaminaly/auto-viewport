@@ -1,0 +1,19 @@
+{
+  "name": "auto-viewport",
+  "version": "1.0.0",
+  "description": "This sets a viewport automatically",
+  "keywords": "viewport setting mediaquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaminaly/auto-viewport"
+  },
+  "bugs": {
+    "url": "https://github.com/kaminaly/auto-viewport/issues"
+  },
+  "author": "kaminaly",
+  "license": "MIT"
+}
